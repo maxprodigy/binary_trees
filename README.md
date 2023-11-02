@@ -1,9 +1,9 @@
-# C - Binary trees
+# C - Binary Trees
 
-> C is a powerful general-purpose programming language. It can be used to develop software like operating systems, databases, compilers, and so on. This projects covers the concepts of binary trees!
+> C is a powerful general-purpose programming language. It can be used to develop software like operating systems, databases, compilers, and so on. This project covers the concepts of binary trees!
 Cheers
 
-At the end of this project, you'll undesrtand these questions:
+At the end of this project, you'll understand these questions:
 
 * What is a binary tree
 * What is the difference between a binary tree and a Binary Search Tree
